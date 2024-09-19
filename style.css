@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
+
+
+p{
+    font-family:cursive;
+}
+
+.C1{
+    color: blue;
+}
+
+.C2{
+    color: red;
+}
+
+#P1{
+    font-size: 30px;
+}
+
+#cont{
+    background-color: aquamarine;
+}
+
+body{
+    background-image: url(https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png);
+}
